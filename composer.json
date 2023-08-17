@@ -1,0 +1,15 @@
+{
+    "name": "christiaandames/php_pdo",
+    "autoload": {
+        "psr-4": {
+            "Christiaandames\\PhpPdo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Christiaan Dames",
+            "email": "36244641+HUSKUT@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
